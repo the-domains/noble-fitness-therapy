@@ -1,0 +1,14 @@
+layout_spectrum: 0.5574424
+color:
+  saturation: 0.911985
+  brandStrength: 0.8595505
+  lightness: 0.8867041
+  brandColors:
+    - '#BED661'
+    - '#89E894'
+    - '#34DDDD'
+    - '#DCD9CF'
+    - '#FEFCFB'
+  rhythmicContrast: 0.9063671
+typography_spectrum: 0.1707806
+name: 'Noble Fitness & Therapy'
