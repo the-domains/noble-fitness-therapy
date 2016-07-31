@@ -1,14 +1,29 @@
+name: Noble Fitness & Therapy
+favicon: null
 layout_spectrum: 0.3932584
+typography_spectrum: 0.05992509
+title: Noble Health and Fitness
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.911985
-  brandStrength: 0.8595505
-  lightness: 0.8867041
   brandColors:
     - '#BED661'
     - '#89E894'
     - '#34DDDD'
     - '#DCD9CF'
     - '#FEFCFB'
+  brandStrength: 0.8595505
+  lightness: 0.8867041
+  saturation: 0.911985
   rhythmicContrast: 0.9063671
-typography_spectrum: 0.05992509
-name: 'Noble Fitness & Therapy'
+purpose: []
